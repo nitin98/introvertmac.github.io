@@ -20,7 +20,7 @@ h1{
 
 a{
   text-decoration: none;
-  color: #f6491a;
+  color: #2A5DB0;
 }
 
 #container{
@@ -87,7 +87,7 @@ a{
   width: 40%;
   
   font-size: 17px;
-  font-family: 'PT Serif', serif;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
   float: right;
   padding-left: 11%;
   margin-right: 10%;
