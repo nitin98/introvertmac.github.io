@@ -80,6 +80,9 @@ a{
   margin-left: 2px;
   margin-right: 2px;
 }
+#social{
+  margin-top: 2em;
+}
 
 
 #about{
@@ -140,8 +143,9 @@ footer{
   }
 
   #about{
-    width: 260px;
+    width: 80%;
     margin-top: -12%;
+
    
 
 
@@ -149,7 +153,6 @@ footer{
 
   #press{
     width: 100%;
-    margin-top: 30%;
 
   }
 
