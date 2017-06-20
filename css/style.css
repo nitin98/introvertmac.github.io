@@ -108,6 +108,11 @@ footer{
   color: black;
 }
 
+#four{
+  width: 600px;
+  margin: 0 auto;
+}
+
 .typed-cursor{
   opacity: 1;
   -webkit-animation: blink 0.7s infinite;
@@ -146,14 +151,14 @@ footer{
     width: 80%;
     margin-top: -12%;
 
-   
-
-
   }
 
   #press{
     
+  }
 
+  #four img{
+    width: 300px;
   }
 
   }
